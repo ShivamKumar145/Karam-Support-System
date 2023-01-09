@@ -1,0 +1,275 @@
+#outer
+{
+	height:auto;
+	width:100%;
+	//background-color:#e8e8ff;
+}
+#header
+{
+	height:140px;
+	width:100%;
+	border:0px solid;
+	background-color:#f7e1e1;
+}
+#headerleft
+{
+	height:140px;
+	width:1000px;
+	border:0px solid;
+	float:left;
+}
+#headerimg
+{
+	height:140px;
+	width:332.5px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/KARAM-LOGO.png');
+}
+#menu
+{
+	height:60px;
+	width:100%;
+	border:0px solid;
+	background-color:black;
+	//margin-top:-20px;
+	padding:1px;
+	
+}
+#menu ul
+{
+font-size:20px;
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline;
+padding:20px;
+//border:1px solid;
+}
+#menu ul li:hover
+{
+//background-color:orange;
+background:-webkit-radial-gradient(orange 60%,greenyellow 40%);
+}
+#menu ul li a
+{
+text-decoration:none;
+color:white;
+}
+#content
+{
+	height:auto;
+	width:100%;
+	//background-color:#f0f0f0;
+	
+}
+.content1
+{
+	height:auto;
+	width:1100px;
+	//background-color:#f8f8f8;
+	margin-left:110px;
+}
+#footer
+{
+	height:60px;
+	width:100%;
+	background-color:black;
+}
+#head
+{
+	height:280px;
+	width:1100px;
+	//background-color:#e8e8ff;
+}
+#headleft
+{
+	height:280px;
+	width:300px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Shelblast.png');
+	margin-left:100px;
+}
+#headmiddle
+{
+	height:280px;
+	width:300px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Shelmet.png');
+}
+#headright
+{
+	height:280px;
+	width:297px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Sheltek.png');
+}
+#eye
+{
+	height:250px;
+	width:1100px;
+	//background-color:#e8e8ff;
+}
+#eyeleft
+{
+	height:250px;
+	width:280px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/small1.png');
+	
+}
+#eyemiddle
+{
+	height:250px;
+	width:280px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/small2.png');
+}
+#eyeright
+{
+	height:250px;
+	width:250px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/download (3).jpg');
+}
+#eyeright2
+{
+	height:250px;
+	width:290px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/small3.png');
+}
+#face
+{
+	height:300px;
+	width:1100px;
+	//background-color:#e8e8ff;
+}
+#faceleft
+{
+	height:220px;
+	width:220px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/images (1234).jpg');
+	margin-left:150px;
+}
+#facemiddle
+{
+	height:300px;
+	width:290px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/small12.png');
+}
+#faceright
+{
+	height:300px;
+	width:290px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/small123.png');
+}
+#hear
+{
+	height:250px;
+	width:1100px;
+	//background-color:#e8e8ff;
+}
+#hearleft
+{
+	height:250px;
+	width:290px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Ear-Muffs.png');
+	margin-left:80px;
+}
+#hearmiddle
+{
+	height:250px;
+	width:290px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Ear-Plugs.png');
+	margin-left:70px;
+}
+#hearright
+{
+	height:250px;
+	width:290px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Accessories.png');
+	margin-left:70px;
+}
+#hand
+{
+	height:280px;
+	width:1100px;
+	//background-color:#e8e8ff;
+}
+#handleft
+{
+	height:280px;
+	width:370px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Prokem.png');
+	margin-left:130px;
+}
+#handright
+{
+	height:280px;
+	width:300px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Prokut.png');
+	margin-left:150px;
+}
+#work
+{
+	height:290px;
+	width:1100px;
+	//background-color:#e8e8ff;
+}
+#workleft
+{
+	height:290px;
+	width:325px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Regular-Range.png');
+}
+#workmiddle
+{
+	height:290px;
+	width:350px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/Premium-Range.png');
+	margin-left:60px;
+}
+#workright
+{
+	height:290px;
+	width:285px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/customization.png');
+}
+
+
+
+
+
+
+

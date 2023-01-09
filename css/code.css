@@ -1,0 +1,236 @@
+#outer
+{
+height:auto;
+width:100%;
+border:0px solid orange;
+//background-color:#ffefad;
+}
+#header
+{
+height:150px;
+width:100%;
+border:0px solid green;
+background-color:#dbc4a5;
+//opacity:0.5;
+}
+#left
+{
+height:150px;
+width:200px;
+border:0px solid;
+background-image:url('../images/karam.jpg');
+float:left;
+}
+#right
+{
+height:150px;
+width:1130px;
+border:0px solid;
+float:left;
+}
+#navigation
+{
+height:60px;
+width:auto;
+border:0px solid;
+background-color:#f0f0f0;
+margin:0px auto;
+padding:1px;
+}
+#navigation ul
+{
+font-size:20px;
+list-style-type:none;
+}
+#navigation ul li
+{
+display:inline;
+padding:20px;
+//border:1px solid;
+}
+#navigation ul li:hover
+{
+//background-color:orange;
+background:-webkit-radial-gradient(orange 60%,gray 40%);
+}
+#navigation ul li a
+{
+text-decoration:none;
+color:brown;
+}
+#slider
+{
+height:500px;
+width:100%;
+border:0px solid red;
+//background-color:#e8e8ff;
+animation: shivam 15s ease-in-out infinite;
+}
+@keyframes shivam{
+	0%,100%
+	{
+		background-image:url('../images/banner.gif');
+	}
+	25%{
+		background-image:url('../images/Coverall.jpg');
+	}
+	50%{
+		background-image:url('../images/KARAM-LUCKNOW.jpg');
+	}
+	75%{
+		background-image:url('../images/Prokem.jpg');
+	}
+	100%{
+		background-image:url('../images/Protection.jpg');
+	}
+}
+#content
+{
+height:1200;
+width:100%;
+border:0px solid;
+//background-color:#fedc9c;
+}
+#left1
+{
+height:800px;
+width:200px;
+border:0px solid;
+//background-color:#c0c0c0;
+float:left;
+color:brown;
+}
+#middle
+{
+height:auto;
+width:800px;
+border:0px solid;
+background-color:#f8f8f8;
+//opacity:0.5;
+float:left;
+}
+#middleimg
+{
+height:200px;
+width:265px;
+border:0px solid;
+background-image:url('../images/founder.jpg');
+float:left;
+border-radius:20px;
+}	
+#middletext
+{
+height:200px;
+width:100%;
+border:0px solid;
+margin-left:5px;
+font-size:25px;
+//text-align:justify;
+}
+#middle2text
+{
+height:200px;
+width:500px;
+border:0px solid;
+margin-left:5px;
+font-size:25px;
+margin-top:50px;
+float:left;
+}
+#middle2img
+{
+height:200px;
+width:265px;
+border:0px solid;
+background-image:url('../images/founder2.jpg');
+margin-top:50px;
+border-radius:20px;
+float:left;
+}
+#middleimg1
+{
+	height:117px;
+	width:420px;
+	//background-color:red;
+	background-image:url('../images/images (3).jpg');
+	margin-left:200px;
+	margin-top:150px;
+	border-radius:5px;
+}
+#right1
+{
+height:800px;
+width:333px;
+border:0px solid;
+//background-color:#d4e0e5;
+float:left;
+}
+#read
+{
+height:30px;
+width:100px;
+background-color:orange;
+margin-left:40px;
+text-align:center;
+margin-top:-40px;
+border-radius:4px;
+}
+#compimg
+{
+	height:498px;
+	width:650px;
+	border:0px solid;
+	background-image:url('../images/20-Years-Logo-1 (1).png');
+	margin-left:400px;
+}
+#footer
+{
+height:550px;
+width:100%;
+border:0px solid;
+//background-color:black;
+}
+#footerleft
+{
+height:550px;
+width:450px;
+border:0px solid;
+//background-color:#d4e0e5;
+float:left;
+}
+#footermiddle
+{
+height:550px;
+width:450px;
+border:0px solid;
+//background-color:#e8e8ff;
+float:left;
+}
+#footerright
+{
+height:550px;
+width:430px;
+border:0px solid;
+//background-color:#c0c0c0;
+float:left;
+}
+#bottom
+{
+	height:50px;
+	width:100%;
+	border:0px solid;
+	background-color:black;
+	margin-top:-88px;
+	border-radius:0px 0px 10px 10px;
+	
+}
+#address
+{
+	height:80px;
+	width:100%;
+	background-color:grey;
+	border-radius:10px 10px 0px 0px;
+}
+
+
+

@@ -1,0 +1,154 @@
+#outer
+{
+height:auto;
+width:100%;
+border:0px solid;
+//background-color:#c7b6ca;
+}
+#header
+{
+	height:220px;
+	width:100%;
+	border:0px solid;
+	background-color:#f7e1e1;
+}
+#headerleft
+{
+	height:200px;
+	width:1000px;
+	border:0px solid;
+	float:left;
+}
+#headerimg
+{
+	height:220px;
+	width:332.5px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/KARAM-LOGO.png');
+}
+#menu
+{
+	height:60px;
+	width:100%;
+	border:0px solid;
+	background-color:black;
+	//margin-top:-20px;
+	padding:1px;
+	
+}
+#menu ul
+{
+font-size:20px;
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline;
+padding:20px;
+//border:1px solid;
+}
+#menu ul li:hover
+{
+//background-color:orange;
+background:-webkit-radial-gradient(orange 60%,greenyellow 40%);
+}
+#menu ul li a
+{
+text-decoration:none;
+color:white;
+}
+#content
+{
+	height:800px;
+	width:100%;
+	border:0px solid;
+	//background-color:#e8e8ff;
+}
+#firstcon
+{
+	height:auto;
+	width:450px;
+	border:0px solid;
+	//background-color:#f1f3f4;
+	float:left;
+	
+}
+#secondcon
+{
+	height:auto;
+	width:430px;
+	border:0px solid;
+	//background-color:#bfdeab;
+	float:left;
+}
+#thirdcon
+{
+	height:auto;
+	width:450px;
+	border:0px solid;
+	//background-color:white;
+	float:left;
+}
+#firstimg
+{
+	height:200px;
+	width:250px;
+	border:0px solid;
+	background-image:url('../images/founder.jpg');
+	margin:20px 0px 0px 60px;
+	border-radius:2px;
+	
+}
+#thirdtop
+{
+	height:auto;
+	width:450px;
+	border:0px solid;
+	
+	
+}
+#thirdimg
+{
+	height:200px;
+	width:250px;
+	border:0px solid;
+	background-image:url('../images/founder2.jpg');
+	margin:20px 0px 0px 60px;
+	border-radius:2px;
+	
+}
+#footer
+{
+	height:200px;
+	width:100%;
+	border:0px solid;
+	background-color:#f7e1e1;
+	
+}
+#history
+{
+	height:200px;
+	width:400px;
+	border:0px solid;
+	background-image:url('../images/History.jpg');
+	margin-left:450px;
+	
+}
+.year1
+{
+	height:auto;
+	width:auto;
+	background-color:#e8e8e8;
+	margin-left:80px;
+	border-radius:0px 20px 20px 20px;
+	margin-right:40px;
+}
+#bottom
+{
+	height:50px;
+	width:100%;
+	border:0px solid;
+	background-color:black;
+	margin-top:-20px;
+}

@@ -1,0 +1,79 @@
+#outer
+{
+ height:auto;
+ width:100%;
+ background-color:#e8e8ff;
+}
+#header
+{
+	height:140px;
+	width:100%;
+	border:0px solid;
+	background-color:#f7e1e1;
+}
+#headerleft
+{
+	height:140px;
+	width:1000px;
+	border:0px solid;
+	float:left;
+}
+#headerimg
+{
+	height:140px;
+	width:332.5px;
+	border:0px solid;
+	float:left;
+	background-image:url('../images/KARAM-LOGO.png');
+}
+#menu
+{
+	height:60px;
+	width:100%;
+	border:0px solid;
+	background-color:black;
+	//margin-top:-20px;
+	padding:1px;
+	
+}
+#menu ul
+{
+font-size:20px;
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline;
+padding:20px;
+//border:1px solid;
+}
+#menu ul li:hover
+{
+//background-color:orange;
+background:-webkit-radial-gradient(orange 60%,greenyellow 40%);
+}
+#menu ul li a
+{
+text-decoration:none;
+color:white;
+}
+#content
+{
+	height:auto;
+	width:100%;
+	background-color:#f0f0f0;
+}
+#footer
+{
+	height:60px;
+	width:100%;
+	background-color:black;
+}
+#contentall
+{
+	height:auto;
+	width:1100px;
+	background-color:#f8f8f8;
+	margin-left:100px;
+	
+}
